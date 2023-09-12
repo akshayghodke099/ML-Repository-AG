@@ -1,0 +1,12 @@
+Loan_ID	--> Unique id for every loan request
+Gender	--> Applicant's Gender
+Married	--> Applicant's Marital status
+Dependents --> How many people are dependednt on the Applicant in his/her family.
+Education --> Applicant's Education
+Self_Employed --> Whether the applicant is employed | Owner of business
+ApplicantIncome	--> Applicant's Income on record
+CoapplicantIncome --> CoApplicant's Income on record
+LoanAmount --> Amount of Loan required
+Loan_Amount_Term	--> Duration in which applicant wants to pay back the loan amount.
+Credit_History --> Whether the candidate has good or bad credit history in past
+Property_Area --> Type of locality of property which the candidate has given as mortage. The type tells us about property valuation. 
